@@ -1,4 +1,4 @@
- <script>
+
 function passw(){
 var txt = document.getElementById("text").value;
 if (txt == 'test' || txt == 'promo') {
@@ -22,4 +22,4 @@ else {
 // 	sweetAlert("Ой...", "Ты указал неверное кодовое слово", "error");
 	}
 }
-</script>
+
