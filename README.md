@@ -1,2 +1,2 @@
 # validation-script
-Script for validation form 
+Скрипт для регистрации пользователя по указанию кодового слова.
